@@ -19,8 +19,8 @@ paginate = 10
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Alexandre B. Simão"
+    subtitle = "De um programador para outro"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -28,15 +28,15 @@ paginate = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Alexandre B. Simão"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
+        name = "Sobre"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+      #[[languages.en.menu.main]]
+      #  identifier = "showcase"
+      #  name = "Showcase"
+      #  url = "/showcase"
